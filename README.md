@@ -3,4 +3,4 @@
 
 ![alt text](docs/demo.gif) 
 
-🔗 https://hw2-7113064188.onrender.com
+🔗 https://hw2-gridworld.onrender.com
